@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculateur de pourboire</string>
+    <string name="default_tip_amount">15</string>
+    <string name="total_amount_label">Montant total:</string>
+    <string name="tip_amount_label">Pourcentage de pourboire:</string>
+    <string name="bill_label">Facture:</string>
+    <string name="total_tip_label">Pourboire total:</string>
+    <string name="default_bill_amount">0</string>
+</resources>
